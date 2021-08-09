@@ -178,7 +178,6 @@ h3.sub{
 }
 
 .message{
-    margin-top: 10rem;
     animation: is-bouncing 1.2s ease alternate infinite;
     place-items: center;
 
